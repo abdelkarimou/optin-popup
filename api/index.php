@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
-    <link rel="stylesheet" href="./assets/custom.css">
+    <link rel="stylesheet" href="assets/custom.css">
     <title>Subscription Form</title>
 </head>
 
@@ -17,7 +17,7 @@
 
         <div class="section-block d-flex justify-content-center align-items-center">
             <div class="left-section">
-                <img src="./assets/reading_04.jpg" alt="Company Logo" class="img-fluid rounded">
+                <img src="assets/reading_04.jpg" alt="Company Logo" class="img-fluid rounded">
             </div>
             <div class="right-section">
 
@@ -64,7 +64,7 @@
 
 
     <div class="modal fade" id="subscriptionModal" tabindex="-1" role="dialog" aria-labelledby="subscriptionModalLabel" aria-hidden="true">
-        
+
         <button type="button" class="close-mobile close" data-dismiss="modal" aria-label="Close">
             <svg viewBox="0 0 24 24" style="font-size: inherit;" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor">
                 <path d="M7.53 6.47a.75.75 0 0 0-1.06 1.06L10.94 12l-4.47 4.47a.75.75 0 1 0 1.06 1.06L12 13.06l4.47 4.47a.75.75 0 1 0 1.06-1.06L13.06 12l4.47-4.47a.75.75 0 0 0-1.06-1.06L12 10.94 7.53 6.47z"></path>
@@ -126,7 +126,7 @@
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    <script src="./assets/main.js"></script>
+    <script src="assets/main.js"></script>
 </body>
 
 </html>
